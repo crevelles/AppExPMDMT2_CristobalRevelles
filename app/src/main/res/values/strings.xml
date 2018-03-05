@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppExPMDMT2_CristobalRevelles</string>
+    <string name="txtListaCd">Lista de CDs</string>
+    <string name="txtCompany">Compañia: </string>
+    <string name="txtYear">Año: </string>
+    <string name="txtPrice">Precio: </string>
+</resources>
